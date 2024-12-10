@@ -1,0 +1,34 @@
+{
+  "schedule": [
+      {
+          "name": "Йога для начинающих",
+          "time": "2024-12-10T09:00:00Z",
+          "max_participants": 20,
+          "current_participants": 12
+      },
+      {
+          "name": "Пилатес",
+          "time": "2024-12-10T11:00:00Z",
+          "max_participants": 15,
+          "current_participants": 8
+      },
+      {
+          "name": "Фитнес для всех",
+          "time": "2024-12-10T14:00:00Z",
+          "max_participants": 25,
+          "current_participants": 18
+      },
+      {
+          "name": "Зумба",
+          "time": "2024-12-10T16:00:00Z",
+          "max_participants": 30,
+          "current_participants": 22
+      },
+      {
+          "name": "Стретчинг",
+          "time": "2024-12-10T18:00:00Z",
+          "max_participants": 10,
+          "current_participants": 5
+      }
+  ]
+}
